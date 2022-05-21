@@ -5,3 +5,4 @@ Implemented a  text summarization system which keeps sentences based on tf-idf s
 Question-Answering system uses cosin-similarity for finding an answer from the text based on the user query/question.
 Unlabelled data was used for both system.
 Dataset was provided as a part of the activity by seniors, so it cannot be uploaded along with the project.
+There was encoding problem in data or the way that I extracted it, so some character are replaced by the system.
